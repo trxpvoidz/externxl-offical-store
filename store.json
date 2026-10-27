@@ -8,12 +8,12 @@
   },
   "items": [
     {
-      "id": "spo0ked",
+      "id": "sp0oked",
       "type": "skinpack",
-      "name": "spo0ked",
+      "name": "sp0oked",
       "description": "a skin pack for the halloween season!",
       "creator": "Trxpvoidz",
-      "download_url": "https://raw.githubusercontent.com/YOUR-USERNAME/eternxl-community-store/main/packs/test-pack.mcpack",
+      "download_url": "https://github.com/trxpvoidz/externxl-offical-store/blob/main/sp0oked%20(Android%20%2B%20PC).zip",
       "thumbnail": "https://raw.githubusercontent.com/YOUR-USERNAME/eternxl-community-store/main/thumbnails/test-pack.png",
       "price": 0
     }
