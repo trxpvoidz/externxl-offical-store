@@ -1,0 +1,21 @@
+{
+  "schema_version": 1,
+  "store": {
+    "name": "Ecliptix",
+    "creator": "Trxpvoidz",
+    "creator_url": "https://github.com/trxpvoidz",
+    "description": "The offical ecliptix (Eternxl) skin pack store"
+  },
+  "items": [
+    {
+      "id": "spo0ked",
+      "type": "skinpack",
+      "name": "spo0ked",
+      "description": "a skin pack for the halloween season!",
+      "creator": "Trxpvoidz",
+      "download_url": "https://raw.githubusercontent.com/YOUR-USERNAME/eternxl-community-store/main/packs/test-pack.mcpack",
+      "thumbnail": "https://raw.githubusercontent.com/YOUR-USERNAME/eternxl-community-store/main/thumbnails/test-pack.png",
+      "price": 0
+    }
+  ]
+}
