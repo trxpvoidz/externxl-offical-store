@@ -4,15 +4,26 @@
     "name": "Ecliptix",
     "creator": "Trxpvoidz",
     "creator_url": "https://github.com/trxpvoidz",
-    "description": "The offical ecliptix (Eternxl) skin pack store"
+    "creator_description": "Host of Ecliptix and ETERNXL.",
+    "description": "The official Ecliptix (ETERNXL) skin pack store"
   },
+  "creators": [
+    {
+      "name": "Trxpvoidz",
+      "profile_url": "https://github.com/trxpvoidz",
+      "description": "The offical creator of Ecliptix and Externxl.",
+      "avatar": "https://yt3.ggpht.com/i4PVgsM8r4cj826jdpD3eAz8VVNtxEzD5li2Eq1YKLrN5bwxt3TKSI95M5W7__1wctnOgQlkmA=s108-c-k-c0x00ffffff-no-rj"
+    }
+  ],
   "items": [
     {
       "id": "sp0oked",
       "type": "skinpack",
       "name": "§6Sp0§eoked",
       "description": "a skin pack for the halloween season!, this pack was made by: §0Trxp Voidz (Host of the collab)§8, §6A6wwp§8, §eanna§8, §6Yuta§8, §8jeraoi§8, §68quart§r §8and §cqm8w!",
-      "creator": "ecliptix",
+      "creator": "Trxpvoidz",
+      "creator_url": "https://github.com/trxpvoidz",
+      "creator_description": "Host of the Sp0oked collaboration.",
       "download_url": "https://github.com/trxpvoidz/externxl-offical-store/blob/main/sp0oked%20(Android%20%2B%20PC).zip",
       "thumbnail": "https://github.com/trxpvoidz/externxl-offical-store/blob/main/thumbnails/sp0oked.png?raw=true",
       "price": 0
